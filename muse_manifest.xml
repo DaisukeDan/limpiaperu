@@ -1,0 +1,289 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="limpiaperu.com" resolutions="1x" timestamp="1550688461272">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="112095948" ref="index"/>
+    <file name="nomq_index.css" crc="59593521" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4216313831" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="474374037" ref="index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index"/>
+    <file name="webpro.js" crc="4143865194" ref="index"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="index"/>
+    <file name="touchswipe.js" crc="4200445185" ref="index"/>
+    <file name="form_check.php" crc="154010282" ref="index"/>
+    <file name="form_throttle.php" crc="266437015" ref="index"/>
+    <file name="form_process.php" crc="512629711" ref="index"/>
+    <file name="form-u545.php" crc="3986986896" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4050941203" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="128250821" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="4055310269" ref="index"/>
+    <file name="require.js" crc="3951022091" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="limpia peru logo-u214-fr.png" crc="482631673" ref="index"/>
+    <file name="136-719x480.jpg" crc="4023022968" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="auxiliares-de-limpieza.jpg" crc="3854374003" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="empresas-de-limpieza2.jpg" crc="134880093" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="limpia peru trama.jpg" crc="3899296108" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="limpia peru logo listo-u936.png" crc="299771857" ref="index"/>
+    <file name="concepto-servicio-limpieza-hombre-limpio-herramientas-oficina_36325-1183.jpg" crc="4003911697" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image.jpg" crc="166379326" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="empresas-de-limpieza-quiere-contratar-un-servicio-semanal-730x410.jpg" crc="488595204" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="limpieza-oficinas-granada.jpg" crc="125572547" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="limpieza-oficinas-despachos-barcelona.jpg" crc="3982174929" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="limpieza2.jpg" crc="4113931430" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="180219-servicios-limpieza-696x348.jpg" crc="4190488786" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="380676_servicios-limpieza.jpg" crc="3939584401" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aseo-de-oficinas-cd-juarez.jpg" crc="199090768" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="casa.jpg" crc="55186486" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="oficina.jpg" crc="512243405" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="colegio.jpg" crc="3970929440" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banco.jpg" crc="208625442" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="257.jpg" crc="4268385099" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ministerio.jpg" crc="390801908" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="restaurante.jpg" crc="3795548116" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="megaplaza.jpg" crc="4219288293" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="edificio.jpg" crc="4086907525" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jardineria.jpg" crc="134631649" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gasfiteria.jpg" crc="4242678390" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="electricidad.jpg" crc="218334785" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="limpieza hombre.jpg" crc="17257368" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="limpia peru logo-u2519.png" crc="244021" ref="index"/>
+    <file name="limpia peru logo listo-u9362.png" crc="299771857" ref="index"/>
+    <file name="concepto-servicio-limpieza-hombre-limpio-herramientas-oficina_36325-1183-crop-u1120.jpg" crc="115992122" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image-crop-u1309.jpg" crc="4168840160" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="empresas-de-limpieza-quiere-contratar-un-servicio-semanal-730x410-crop-u1335.jpg" crc="4119427825" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="limpia peru logo-u25192.png" crc="244021" ref="index"/>
+    <file name="limpia peru logo-u214-fr2.png" crc="373597775" ref="index"/>
+    <file name="menu.svg" crc="4006810428" ref="index"/>
+    <file name="menu_poster_u6457.png" crc="37726303" ref="index"/>
+    <file name="cerrar.svg" crc="494171557" ref="index"/>
+    <file name="cerrar_poster_u6465.png" crc="3981862761" ref="index"/>
+    <file name="limpia peru logo listo-u9363.png" crc="4087232929" ref="index"/>
+    <file name="concepto-servicio-limpieza-hombre-limpio-herramientas-oficina_36325-1183-crop-u11202.jpg" crc="177474441" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image-crop-u13092.jpg" crc="455817635" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="empresas-de-limpieza-quiere-contratar-un-servicio-semanal-730x410-crop-u13352.jpg" crc="435907174" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="limpieza-oficinas-granada-crop-u1213.jpg" crc="99814148" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="limpieza-oficinas-despachos-barcelona-crop-u1819.jpg" crc="381960482" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="concepto-servicio-limpieza-hombre-limpio-herramientas-oficina_36325-1183-crop-u1839.jpg" crc="532545177" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="limpia peru logo-u25193.png" crc="244021" ref="index"/>
+    <file name="limpia peru logo-u214-fr3.png" crc="420591483" ref="index"/>
+    <file name="limpia peru logo listo-u9364.png" crc="4087232929" ref="index"/>
+    <file name="concepto-servicio-limpieza-hombre-limpio-herramientas-oficina_36325-1183-crop-u11203.jpg" crc="3793304431" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image-crop-u13093.jpg" crc="405388561" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="empresas-de-limpieza-quiere-contratar-un-servicio-semanal-730x410-crop-u13353.jpg" crc="515234657" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="limpieza-oficinas-granada269x179.jpg" crc="3807887225" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="limpieza-oficinas-despachos-barcelona269x179.jpg" crc="3973514570" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="concepto-servicio-limpieza-hombre-limpio-herramientas-oficina_36325-1183269x179.jpg" crc="207939946" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="limpia peru logo-u25194.png" crc="4267114696" ref="index"/>
+    <file name="limpia peru logo listo-u9365.png" crc="3995958236" ref="index"/>
+    <file name="concepto-servicio-limpieza-hombre-limpio-herramientas-oficina_36325-1183-crop-u11204.jpg" crc="4239456245" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image-crop-u13094.jpg" crc="263751566" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="empresas-de-limpieza-quiere-contratar-un-servicio-semanal-730x410-crop-u13354.jpg" crc="134402817" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="limpieza-oficinas-granada-crop-u12132.jpg" crc="57417068" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="limpieza-oficinas-despachos-barcelona-crop-u18192.jpg" crc="3770432903" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="concepto-servicio-limpieza-hombre-limpio-herramientas-oficina_36325-1183-crop-u18392.jpg" crc="3851407693" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banco-u2430-fr.jpg" crc="227271320" ref="index"/>
+    <file name="limpia peru logo-u25195.png" crc="332734593" ref="index"/>
+    <file name="limpia peru logo listo-u9366.png" crc="168534239" ref="index"/>
+    <file name="concepto-servicio-limpieza-hombre-limpio-herramientas-oficina_36325-1183325x216.jpg" crc="427659676" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image-crop-u13095.jpg" crc="4178954259" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="empresas-de-limpieza-quiere-contratar-un-servicio-semanal-730x410-crop-u13355.jpg" crc="4045527576" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="limpieza-oficinas-granada287x191.jpg" crc="270226072" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="limpieza-oficinas-despachos-barcelona287x191.jpg" crc="144595111" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="concepto-servicio-limpieza-hombre-limpio-herramientas-oficina_36325-1183287x191.jpg" crc="4177448473" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banco-u2430-fr2.jpg" crc="136468061" ref="index"/>
+    <file name="ministerio-u2436-fr.jpg" crc="3908238326" ref="index"/>
+    <file name="megaplaza-u2406-fr.jpg" crc="3909575806" ref="index"/>
+    <file name="limpia peru logo-u25196.png" crc="529740134" ref="index"/>
+  </folder>
+  <file name="index.html" crc="280787902" seo="true" mt="1550687784273" redirect="true"/>
+</manifest>
